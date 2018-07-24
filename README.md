@@ -26,4 +26,5 @@ I have browsed about the issue and got to get a set of differnt commands and aft
 After reinstalling the composer and tried ,it starts to show 404 not found.
 I have checked if all the things are correctly placed in the directories and the I get 403 forbidden.I again checked the permissions of the files and made necessary changes and this time i only get the contents in the folder(Index Of) page.
 
-
+DAY-3
+i have got to know that I have 
