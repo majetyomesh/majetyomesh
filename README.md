@@ -15,4 +15,15 @@ Learned how to restrict access for deleting records,create using CRUD generator.
 
 
 
+DAY 2
+At first I have tried to downgrade php 7 to php 5.6 which i have failed to do as its showing soo many errors.I browsed and tried various ways to uninstall php 7 but none of them worked good.So i ensured by testing if the current version is working properly or not with all extensions working and left that.
+I have created an acoount in ubuntu one and have installed atom(ide) and at the same time got to learn about fatal errors and other realated issues.
+I tried to create all new directories and also installed composer once again.
+Since I have to work only on apache server , I was misleaded to download Apache manager GUI which I was unable to install,where I have wasted much time and finally unable to install it but got to know how to work without the manager.
+I have learned to access any folder and modify it, change the location of file,permissions of file,and also copy a file using sudo,sudo nano,sudo chown tools.
+Finally I have created a new local host in apache server but unable to open it as it shows could not open input file.
+I have browsed about the issue and got to get a set of differnt commands and after running in terminal it shows couldnot open the file a composer not installed properly.
+After reinstalling the composer and tried ,it starts to show 404 not found.
+I have checked if all the things are correctly placed in the directories and the I get 403 forbidden.I again checked the permissions of the files and made necessary changes and this time i only get the contents in the folder(Index Of) page.
+
 
